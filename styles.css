@@ -1,0 +1,94 @@
+#main {
+    margin: 0;
+}
+.style_nav{
+    padding-bottom: 1.5%;
+    padding-top: 1.5%;
+}
+
+
+.img_hero{
+    margin: 0 !important;
+    height: 700px !important;
+    background-image: url('https://i.ibb.co/k1scchg/hero-image.jpg') !important;
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+   color: azure !important;
+}
+#blank_hero1{
+   padding-top: 5% !important; 
+}
+
+
+
+.text{
+    font-size: 150%;
+}
+
+.blank_intro{
+    padding-top: 18% !important;
+    padding-bottom: 18% !important;
+}   
+.parrafo{
+    padding-right: 10% !important;
+    padding-left: 10% !important;
+}
+#main > div.img_hero > div > div:nth-child(3) > div > div > button > a {
+    color: white !important;
+    text-decoration: none ;
+}
+#forms{
+    color: black !important;
+}
+
+.size_video{
+    margin: 1%;
+    
+}
+
+#split_nav {
+    text-decoration: none !important;
+    color: azure !important;
+}
+
+.img{
+    width: 70%;
+}
+
+
+.img2{
+  align-items: center !important;
+  width: 100% !important;
+  
+  border-radius: 45 px;
+ 
+ 
+}
+
+.img_container_pa{
+height: fit-content !important;
+}
+
+.mar{
+    margin-top: 0 !important;
+   
+}
+.texxt{
+padding-left: 20% !important;
+padding-right: 20% !important;
+}
+
+.blaccck{
+color: cornsilk;
+background-color:#2e3440;
+
+}
+
+#intro > h5{
+    font-weight: lighter !important;
+}
+
+#intro > p{
+    color: mintcream;
+}
